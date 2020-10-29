@@ -10,5 +10,6 @@ target 'Parstagram' do
   # Add additional dependencies
   pod 'AlamofireImage'
   pod 'Bolts'
+  pod 'MessageInputBar'
 
 end
